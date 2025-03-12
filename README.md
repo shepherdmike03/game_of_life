@@ -1,10 +1,10 @@
-🌱 Conway's Game of Life
+# 🌱 Conway's Game of Life
 
-📜 About
+# 📜 About
 
 This is a terminal-based implementation of Conway’s Game of Life, built entirely from scratch in C. No fancy UI, just pure logic and a mesmerizing display of cellular automaton evolution right in your terminal.
 
-Features:
+# Features:
 
 📡 Simple yet captivating simulation.
 
@@ -16,7 +16,7 @@ Features:
 
 🔬 How It Works
 
-The game follows four simple rules:
+# The game follows four simple rules:
 
 Any live cell with fewer than two live neighbors dies (underpopulation).
 
@@ -26,7 +26,7 @@ Any live cell with more than three live neighbors dies (overpopulation).
 
 Any dead cell with exactly three live neighbors becomes alive (reproduction).
 
-🚀 Installation & Running
+# 🚀 Installation & Running
 
 Clone this repo:
 
@@ -40,13 +40,13 @@ Run the game:
 
 ./game_of_life
 
-🎮 Controls
+# 🎮 Controls
 
 The simulation starts automatically.
 
 Press Ctrl + C to exit the program.
 
-📝 Contributions
+# 📝 Contributions
 
 If you want to add improvements, like a GUI, better controls, or new game modes, feel free to contribute!
 
@@ -60,8 +60,8 @@ Push to the branch: git push origin feature-improvement
 
 Open a Pull Request!
 
-📬 Contact
+# 📬 Contact
 
 Got feedback, bug reports, or deep thoughts about cellular automata? Drop an issue or reach out!
 
-🧬 Warning: This game may lead to an existential appreciation of how simple rules create complex life!
+# 🧬 Warning: This game may lead to an existential appreciation of how simple rules create complex life!
