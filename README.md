@@ -30,7 +30,7 @@ Any dead cell with exactly three live neighbors becomes alive (reproduction).
 
 Clone this repo:
 
-git clone https://github.com/yourusername/game_of_life.git
+git clone https://github.com/shepherdmike03/game_of_life.git
 
 Compile the program:
 
