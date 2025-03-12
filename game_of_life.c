@@ -12,7 +12,7 @@
                                        /*                  Rows - Columns - Iterations.                       */
                                        /*                      Prints the game by it's rules in 'output.txt'  */
                                        /*                                                                     */
-                                       /*   Code created by: Pasztor Miklos || pmkm0005 || LAB_6 || Ansi C    */
+                                       /*             Code created by: Pasztor Miklos ||  Ansi C              */
                                        /***********************************************************************/
 
 
